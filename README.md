@@ -1,2 +1,2 @@
 # Kaggle-Titanic-competition
-Submision notebook for kaggle titanic competition
+Submission notebook for kaggle titanic competition
